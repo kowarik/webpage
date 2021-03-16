@@ -48,7 +48,11 @@
     <!-- Bootstrap CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+<<<<<<< HEAD
+    <title>My bootstrap</title>
+=======
     <title>Комп'ютерний практикум №3. Git і GitHub</title>
+>>>>>>> master
 
   </head>
   <body>
